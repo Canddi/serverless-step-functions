@@ -44,7 +44,7 @@
     "sinon": "^12.0.1"
   },
   "dependencies": {
-    "joi": "^17.7.0",
+    "joi": "^18.2.1",
     "@serverless/utils": "^6.7.0",
     "asl-validator": "^3.8.0",
     "bluebird": "^3.4.0",
